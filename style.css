@@ -1,12 +1,13 @@
-h1{
-  text-align: center;
+body {
+  background-color: #EAF6F6;
 }
-
-
-h2{
-  text-align:center;
-  color: brown;
+hr{
+ border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
 }
-.center{
-  text-align: center;
+h3{
+  color: #66bfbf;
 }
